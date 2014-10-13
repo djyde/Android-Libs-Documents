@@ -27,4 +27,9 @@ compile 'com.squareup:android-times-square:(version)@aar'
 compile 'io.realm:realm-android:0.71.0'
 ```
 
+####[ButterKnife](http://jakewharton.github.io/butterknife/)
+```
+compile 'com.jakewharton:butterknife:5.1.2'
+```
+
 ###If more, fork me and pull request.
