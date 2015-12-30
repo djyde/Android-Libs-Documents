@@ -1,5 +1,7 @@
 Android-Libs-Documents
 ======================
+
+[![Join the chat at https://gitter.im/djyde/Android-Libs-Documents](https://badges.gitter.im/djyde/Android-Libs-Documents.svg)](https://gitter.im/djyde/Android-Libs-Documents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 集合一下各种常用库的文档地址和Gradle依赖路径
 
 ####[Universial-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
